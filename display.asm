@@ -1,6 +1,6 @@
 .data
-    str_bar:  .asciiz "##"
-    str_dot:  .asciiz ".."
+    str_bar:  .asciiz "#"
+    str_dot:  .asciiz "."
     str_l:    .asciiz "["
     str_r:    .asciiz "]"
 
